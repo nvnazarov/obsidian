@@ -1,0 +1,3 @@
+- Type safety
+- Memory safety
+- Concurrency / thread safety
