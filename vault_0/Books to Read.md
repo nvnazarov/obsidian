@@ -1,0 +1,3 @@
+- Eric Evans, Domain Driven Design
+- Martin Fowler, Patterns of Enterprise Application Architecture
+- ..., Refactoring, Addison-Wesley Professional

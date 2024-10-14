@@ -159,6 +159,16 @@ delete a;
 
 -  Generators
 
+- Embed
+
+```go
+
+import "embed"
+
+//go:embed f.txt
+var a string
+```
+
 ### Built-in Data Types
 
 ```python
@@ -191,6 +201,7 @@ Built-in modules:
 
 ### Reflection
 
+## Actor-based (Erlang, Elixir)
 # Tools
 ## Package manager
 ## Virtual environments

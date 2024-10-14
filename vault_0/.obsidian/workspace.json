@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b68a86e33a94c873",
+        "id": "039203253b512bdf",
         "type": "tabs",
         "children": [
           {
-            "id": "e4beab686c62a084",
+            "id": "c0d2f4f821adb5b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cs/Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs/Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs/Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "cs/Algorithms.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,39 +138,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4beab686c62a084",
+  "active": "c0d2f4f821adb5b4",
   "lastOpenFiles": [
-    "cs/Архитектура процессора.md",
-    "cs/Сборщик мусора.md",
-    "cs/Кэш.md",
-    "cs/Асинхронность.md",
-    "cs/Algorithms.md",
+    "Конечные автоматы.md",
+    "OS.md",
+    "Plans.md",
+    "university/Экономика ПИ.md",
+    "university/ФП.md",
     "university/Базы данных 1.md",
+    "university/Базы данных.md",
+    "university/ИАД.md",
+    "university/МО.md",
+    "English.md",
+    "other/Languages features.md",
+    "PLs/SQL.md",
+    "PLs/Rust.md",
+    "PLs/Python.md",
+    "PLs/Go.md",
+    "PLs/C++.md",
+    "List of Valuable Themes.md",
+    "Linux.md",
+    "Books to Read.md",
+    "university/НИС Облачные технологии.md",
+    "(img) DBMS Buffer Pool.png",
+    "other/Consoles.md",
+    "other/Patterns.md",
+    "math/Разделы математики.md",
+    "cs/Алгоритмы.md",
+    "other/Code Generation.md",
+    "Internet/Web Technologies.md",
     "(img) DBMS Page Storage Slotted Pages.png",
     "(img) DBMS Page Storage Page Directory.png",
     "(img) DBMS Page Storage Linked List.png",
     "(img) DBMS Architecture.png",
-    "Plans.md",
-    "university/ФП.md",
-    "university/ИАД.md",
-    "university/МО.md",
-    "Конечные автоматы.md",
-    "Linux.md",
-    "HW.md",
-    "university/Экономика ПИ.md",
-    "university/Базы данных.md",
-    "Tools/PlantUML.md",
-    "math/Разделы математики.md",
-    "⇨.md",
-    "Tools/Git.md",
     "math",
-    "Tools/GitHub.md",
-    "other/Patterns.md",
-    "other/Мотивационное письмо.md",
-    "other/Profiling.md",
-    "other/Languages features.md",
-    "other/Kubernetes.md",
-    "other/Linear Algebra.md",
     "other",
     "university",
     "cs",

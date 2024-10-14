@@ -115,3 +115,67 @@ switch v := i.(type) {
 
 - Goroutines
 
+# Rate Limiting
+
+# Concurrency
+## Atomic Counters
+
+```go
+import "sync/atomic"
+
+var n atomic.Uint64
+ops.Add(1)
+```
+
+## Mutexes
+
+```go
+import "sync"
+
+type Container struct {
+	mu sync.Mutex
+}
+```
+
+_Note:_ mutex should not be copied, so should pass struct by pointer.
+# Panic
+
+Panic with defer
+
+Recover:
+```go
+
+if e := recover(); e != nil {
+	// e is an error raised in the call to panic
+}
+```
+# Embed Directives
+
+```go
+
+import "embed"
+
+//go:embed t.txt
+var name string
+
+//go:embed folder/single_file.txt
+//go:embed folder/*.hash
+var folder embed.FS
+```
+# Testing and Benchmarking
+
+...
+# Useful Packages
+
+- strings - operations on strings
+- text/template
+- regexp
+- encoding/json, encoding/xml
+- time
+- math/rand/v2
+- strconv - convert string to number
+- net/url - parse urls
+- crypto/sha256, encoding/base64
+- path/filepath - work with paths
+
+Create temporary files: `os.CreateTemp(...)`

@@ -28,3 +28,7 @@ SaaS
 
 ACID - Atomicity, Consistency, Isolation, Durability
 [Transaction Isolation Levels in DBMS - GeeksforGeeks](https://www.geeksforgeeks.org/transaction-isolation-levels-dbms/)
+
+
+
+RDD - Responsibility Driven Design

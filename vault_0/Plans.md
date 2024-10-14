@@ -8,16 +8,15 @@
 - K8s
 - English (recall 1-2 course faculties)
 
+- CI/CD (Jenkins)
+
+University:
+- Watch IAD lections;
 
 
 
 
-
-
-
-
-
-
+[The actor model in 10 minutes (brianstorti.com)](https://www.brianstorti.com/the-actor-model/)
 
 
 

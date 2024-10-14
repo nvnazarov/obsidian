@@ -149,3 +149,6 @@ Blobs, trees and commits.
 
 `git restore --staged <file>...` - unstage staged file
 `git restore <file>...` - discard modifications made to the file
+# Vendor
+
+Using third-party through coping it into your project repo.
